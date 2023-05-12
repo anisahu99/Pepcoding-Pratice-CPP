@@ -1,0 +1,6 @@
+                                      Points to Remember
+ 
+1.For Duplicacy(Problem like coin change) ->We take 1D Array to store the value.
+2.If Duplicacy is not allowed(Problem like Subset sum of array) we take 2D Array to store the value.
+3.In knapsnack unbounded problem in 1D array(we can solve in both manner combination type or permutaion(value,weight),
+means if we take one pair effect at one time or all pair effect at one time it give same result.
